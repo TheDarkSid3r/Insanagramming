@@ -33,7 +33,7 @@ Blue Cipher::Burp Lichee
 Boggle::Log Beg
 Boolean Maze::Enable A Zoom
 Boolean Venn Diagram::Drag Aim Ban Novel One
-Braille::Ill Bear
+Braille::Liberal
 British Slang::Snails Bright
 Broken Buttons::Stubborn Token
 Broken Guitar Chords::A Corgi Dubs Horn Trek
@@ -489,3 +489,196 @@ Going Backwards::Ragbag Disc Wonk
 Scalar Dials::A Cars All Dis
 Keywords::Rod We Sky
 The Crafting Table::Fractal Beet Thing
+Dreamcipher::Preached Rim
+Echolocation::Chocolate Ion
+Boxing::Gin Box
+Railway Cargo Loading::Awarding a Coy Gorilla
+Conditional Buttons::A Blond Constitution
+Semamore::Moms Erase
+Symbolic Tasha::Libya Stomachs
+Alphabetical Ruling::A Lingual Birthplace
+Microphone::Niche Promo
+Widdershins::Hiders Winds
+Lockpick Maze::Zap Mi Elk Cock
+Dimension Disruption::Prions Munitions Died
+A Message::A Sea Gem
+Alliances::Lance Ails
+Dungeon::Nudge On
+Unicode::Nice Duo
+Password Generator::A Transposed Grower
+Baccarat::Crab a Cat
+Reverse Alphabetize::A Rehab Sieve Pretzel
+Alphabetize::He Tip Ablaze
+Gatekeeper::Repeat Geek
+Five Letter Words::Frittered Wolves
+Settlers of KTaNE::Foretastes Knelt
+The Hidden Value::Headhunted Evil
+Directional Button::A Belt Introduction
+The Simpleton::Moth Plenties
+Misery Squares::Messy Quarries
+Not Wiresword::Twined Sorrow
+Not Wire Sequence::Cow Equestrienne
+Not Simaze::Zaniest Om
+Not Password::Onward Stops
+Not Morse Code::Encode Motors
+Not Memory::Try One Mom
+Not Maze::Zen Atom
+Not Keypad::Top Yanked
+Not Complicated Wires::A Dielectrics Mop Town
+Not the Button::Bent Tooth Nut
+Wire Ordering::Rewired Groin
+Quaternions::Quaint Snore
+Abstract Sequences::Carcass Bequest Ten
+Shifting Maze::Fazing Theism
+Sorting::Gin Rots
+Role Reversal::Realer Lovers
+Placeholder Talk::Kelp Toll Charade
+Art Appreciation::Catatonia Ripper
+Shell Game::Legal Mesh
+Pattern Lock::Prattle Conk
+Quick Arithmetic::Chimera Quick Tit
+Minecraft Cipher::Pitchman Fiercer
+Cheat Checkout::The Acute Chock
+The Samsung::Mush Agents
+Forget The Colors::Reflectors Go Hot
+Etterna::Entreat
+Recolored Switches::Screeched Oil Trows
+Cruel Garfield Kart::Aftercare Drug Kill
+Reverse Polish Notation::A Seventieth Roils Porno
+Snowflakes::Wolf Snakes
+Forget Infinity::Effigy Tin Intro
+Stock Images::Casket Gismo
+Malfunctions::Fiscal Nun Tom
+Minecraft Parody::Dynamic Forepart
+NumberWang::Gunman Brew
+Minecraft Survival::Fit Vim Vernaculars
+Uncolored Switches::Circled Townhouses
+The Twin::Wet Hint
+Name Changer::Hangmen Race
+Just Numbers::Be Mrs Unjust
+Lying Indicators::Syndication Girl
+Training Text::Extra Tinting
+Wonder Cipher::Cornered Whip
+Triamonds::Maid Snort
+Stars::Tsars
+Button Order::Unrobed Tort
+Elder Password::Slops Rewarded
+Switching Maze::Magics When Zit
+Mystery Module::Remedy My Lotus
+Ladder Lottery::Treated Lordly
+Standard Crazy Talk::Dastardly Czar Tank
+Quote Crazy Talk End Quote::Tact Quota Zonked Queerly
+Jaden Smith Talk::Hadj Kitten Slam
+Deck Creating::Tacked Cringe
+Crazy Talk With A K::I Talk Whacky Tzar
+BoozleTalk::El Bozo Talk
+Arrow Talk::LA Artwork
+Audio Morse::I Sum a Rodeo
+Palindromes::Ireland Mops
+Type Racer::Carpet Rye
+Chicken Nuggets::Nun Sets Chick Egg
+Tetriamonds::Tandem Trios
+Spot the Difference::Effected Horse Pint
+Yes and No::Anodynes
+Plant Identification::A Tin Infanticide Plot
+Integer Trees::Get Reentries
+Module Rick::Coiled Murk
+Pickup Identification::Iconic Nuked a Fit Pipit
+Earthbound::Haunted Orb
+Life Iteration::Infertile Iota
+Thread the Needle::Tenth Deer Healed
+Encrypted Hangman::Canned Great Nymph
+Accelerando::Red En Cloaca
+The Heart::Hath Tree
+Remote Math::Theatre Mom
+Password Destroyer::Dad Retypes Sorrows
+Brawler Database::Wearable Bastard
+More Code::Moor Cede
+OmegaForget::Mortgage Foe
+Mental Math::Hmm Teal Tan
+Dictation::Do Titanic
+Basic Morse::Cab Isomers
+Emotiguy Identification::A Citified Tenuity Mooing
+Jailbreak::Labia Jerk
+Dumb Waiters::Wartime Buds
+DACH Maze::Hazed Mac
+Navinums::Minus Van
+Gnomish Puzzle::Ohm Guzzle Pins
+Shifted Maze::Theism Fazed
+Juxtacolored Squares::Coaxed Quarrels Joust
+The Missing Letter::Lengthiest Timers
+Amnesia::I Seaman
+Synesthesia::Thine Essays
+English Entries::Silent Greenish
+The Duck::Hut Deck
+The Cruel Duck::The Rude Cluck
+Identifying Soulless::Ed Infinites Ugly Soils
+Ultimate Tic Tac Toe::Tactile Cat Timeout
+Factoring::Groin Fact
+Lyrical Nonsense::Sir Scalene Nylon
+Repo Selector::Elector Poser
+Deaf Alley::Flayed Ale
+Sound Design::Nosing Dudes
+RGB Arithmetic::Cat Birth Grime
+Pixel Cipher::I Perplex Chi
+The Great Void::Vote Rig Death
+Prime Time::Mime Tripe
+Negation::No Eating
+The Calculator::A Hellcat Court
+Ultralogic::Coral Guilt
+Spangled Stars::Grassland Pets
+Busy Beaver::Survey Babe
+Assembly Code::Mossy Debacle
+Boomdas::Bad Moos
+Needlessly Complicated Button::A Conductible Dent Molley Pests
+Color Numbers::Bronco Lemurs
+Chinese Strokes::Sketchier Noses
+Chalices::Seal Chic
+Faulty Accelerando::For A Calculated Yen
+Incrasing Indices::Acidic Sneering Sin
+Faulty Binary::Faintly A Ruby
+Cruel Binary::Uric Barn Lye
+Connected Monitors::Not Conceited Norms
+Broken Binary::Knobbier Yarn
+Totally Accurate Minecraft Simulator::Afrocentric Metastatically Tumoural
+Tell Me When::Me Went Hell
+Alien Filing Colors::Illogical Infernos
+The Kanye Encounter::Hoecake Runny Tenet
+Entry Number Four::Ferrymen Burnout
+Color One Two::Coronet Wool
+Spelling Buzzed::Blend Sizzle Pug
+Mystic Maze::My Zits Came
+Chinese Zodiac::Echidna Cozies
+Four Lights::Foul Girths
+Working Title::Towering Kilt
+One Links to All::Toenail Knolls
+Rules::Lures
+Double Lustening::Boldest Linguine
+Wack Game of Life::Magical Week Off
+Mindlock::Cold Mink
+Regular Hexpressions::A Exospheres Girl Runs
+Colored Buttons::Obstruct Noddle
+Censorship::Chosen Rips
+The Pentabutton::Upbeat Tenth Ton
+Mechanis Cipher::Sepia Churchmen
+Breaktime::Mite Baker
+Three Cryptic Steps::Pretty Screech Pits
+The Console::Leech Snoot
+Pocket Planes::Kneecap Plots
+Rotten Beans::Absent Tenor
+Long Beans::Angle Snob
+Cool beans::Sole Bacon
+Beanboozled Again::Bandana Bozo Liege
+The Dials::Head List
+Silenced Simon::Lemons Indices
+Teal Arrows::Slow Errata
+Keep Clicking::Elk Keg Picnic
+Alphabet Tiles::Ale Battleship
+Double Pitch::Piloted Chub
+Devilish Eggs::Vigils Hedges
+Quick Time Events::Vim Quest Necktie
+The Bioscanner::Rhinestone Cab
+Ars Goetia Identification::Aficionados Ignite A Trite
+Pixel Number Base::Expansible Umber
+Silo Authorization::Lithuania Riot Zoos
+Gradually Watermelon::A Warranted Mole Gully
