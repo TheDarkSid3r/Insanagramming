@@ -444,7 +444,6 @@ Snakes and Ladders::Kens Sadder Sandal
 Module Movements::Melt Nosedove Mum
 Safety Square::Faster Queasy
 Roman Numerals::Marmoreal Nuns
-Red Buttons::Bend Trouts
 The Rule::Lee Hurt
 Lousy Chess::Holy Cusses
 Keypad Lock::Packed Yolk
@@ -459,7 +458,6 @@ The High Score::Secret High Ho
 Ingredients::Needing Stir
 Intervals::Van Tilers
 Cheep Checkout::Heck Cope Cut He
-Spelling Bee::Legible Pens
 Thinking Wires::Shriek Twining
 Seven Choose Four::Confuse Overshoe
 Object Shows::Cob Jew Hosts
@@ -492,7 +490,7 @@ The Crafting Table::Fractal Beet Thing
 Dreamcipher::Preached Rim
 Echolocation::Chocolate Ion
 Boxing::Gin Box
-Railway Cargo Loading::Awarding a Coy Gorilla
+Railway Cargo Loading::Awarding A Coy Gorilla
 Conditional Buttons::A Blond Constitution
 Semamore::Moms Erase
 Symbolic Tasha::Libya Stomachs
