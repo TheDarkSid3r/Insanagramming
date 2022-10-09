@@ -651,7 +651,7 @@ Four Lights::Foul Girths
 Working Title::Towering Kilt
 One Links to All::Toenail Knolls
 Rules::Lures
-Double Lustening::Boldest Linguine
+Double Listening::Boldest Linguine
 Wack Game of Life::Magical Week Off
 Mindlock::Cold Mink
 Regular Hexpressions::A Exospheres Girl Runs
